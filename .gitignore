@@ -1,0 +1,16 @@
+# Price data downloaded by the notebook
+*.pkl
+data/
+prices*.csv
+
+# Keep the committed universe file
+!ind_nifty50list.csv
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.ipynb_checkpoints/
+
+.DS_Store
